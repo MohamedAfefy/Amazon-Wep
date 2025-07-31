@@ -31,7 +31,7 @@ const Footer = () => {
           </div>
           <div className="flex flex-col gap-4 ">
             <h3 className="font-bold mb-2">Make Money with Us</h3>
-            <ul className="space-y-4">
+            <ul className="space-y-1">
               <li>Sell on Amazon</li>
               <li>Sell under Amazon Accelerator</li>
               <li>Protect and Build Your Brand</li>
@@ -39,8 +39,7 @@ const Footer = () => {
               <li>Supply to Amazon</li>
               <li>Become an Affiliate</li>
               <li>Fulfilment by Amazon</li>
-              <li>Advertise Your Products</li>
-              <li>Amazon Pay on Merchants</li>
+
             </ul>
           </div>
           <div className="flex flex-col gap-4 ">
@@ -56,7 +55,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="flex flex-col md:flex-row items-center justify-center gap-4 py-24 border-t border-gray-600 md:h-16 ">
+        <div className="flex flex-col md:flex-row items-center justify-center gap-4 py-24 border-t border-gray-600 md:h-16  ">
           <img src="/public/images/AmazonNavbar.png" alt="Amazon" className="w-24 " />
           <div className="flex items-center gap-4 text-gray-300">
             <select className="bg-[#232f3e] border border-gray-600 px-2 py-1 rounded">
